@@ -4,3 +4,4 @@ The website offers users a user-friendly interface with login, category filterin
 link to the website: http://live-watchy-watch.pantheonsite.io/
 
 
+I used FIGMA and PHOTOSHOP in planning the project:
