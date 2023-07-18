@@ -5,3 +5,8 @@ link to the website: http://live-watchy-watch.pantheonsite.io/
 
 
 I used FIGMA and PHOTOSHOP in planning the project:
+
+
+![Frame 6 (1)](https://github.com/OfirZ126/WatchyWatch/assets/138397550/a314512c-d554-42fe-aabb-d821d6c43f89)
+![Frame 6 (3)](https://github.com/OfirZ126/WatchyWatch/assets/138397550/984976f6-7d15-4a47-bae0-c83284e73e6b)
+![Frame 6 (4)](https://github.com/OfirZ126/WatchyWatch/assets/138397550/5d2f5a2a-be87-456b-9204-d59047f7f8f7)
