@@ -18,23 +18,32 @@ Home
  
 Movies-
 
-**The Avengers
+The Avengers
+
 Creed III
-Guardians of the Galaxy, 
-Shazam! Fury of the Gods, 
-The Hangover**
+
+Guardians of the Galaxy
+
+Shazam! Fury of the Gods
+
+The Hangover
 
 TV Shows-
 
-**Smallville **
+Smallville
+
 Account
 
 User
 
-Password Reset, 
-Login, 
-Logout, 
-Register, 
+Password Reset
+
+Login
+
+Logout
+
+Register
+
 
 Plugins i have used:
 Elementor, Gutenberg, Depicter, Elementor Header & Footer Builder, Essential Addons for Elementor, GreenShift - Animation and Page Builder Blocks, Happy Elementor Addons,	Ivory Search, Photo Gallery, Spectra, Ultimate Member, Unlimited Elements for Elementor, Wonder Grid Gallery Trial,	WP Mail SMTPWPForms Lite.
