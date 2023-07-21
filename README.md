@@ -14,7 +14,8 @@ I used FIGMA and PHOTOSHOP in planning the project:
 WatchyWatch has been built with Gutenberg and elementor(Free version).
 The website have for now 15 pages and more to come.
 
-Home, 
+Home,
+ 
 Movies-
 **The Avengers, 
 Creed III, 
